@@ -1,0 +1,47 @@
+{
+  "name": "NovaDAO Rare Pass #788",
+  "symbol": "NVA",
+  "description": "NovaDAO NFT",
+  "seller_fee_basis_points": 1000,
+  "image": "https://h6zh2tqw4pvxmnw3di552clpecmymkvb3be2iy5nt3s2k6gxtoka.arweave.net/P7J9Thbj63Y22xo73QlvIJmGKqHYSaRjrZ7lpXjXm5Q",
+  "animation_url": "https://tnu5qnzhlwom33j6abgdohbbjnqu2wcjtqoss6yxgndy7foyeoca.arweave.net/m2nYNyddnM3tPgBMNxwhS2FNWEmcHSl7FzNHj5XYI4Q",
+  "external_url": "https://twitter.com/Nova_Premium",
+  "edition": 0,
+  "collection": {
+    "name": "NovaDAO",
+    "family": "NovaDAO"
+  },
+  "attributes": [
+    {
+      "trait_type": "Access Level",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Number",
+      "value": 788
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://tnu5qnzhlwom33j6abgdohbbjnqu2wcjtqoss6yxgndy7foyeoca.arweave.net/m2nYNyddnM3tPgBMNxwhS2FNWEmcHSl7FzNHj5XYI4Q",
+        "type": "video/mp4"
+      },
+      {
+        "uri": "https://h6zh2tqw4pvxmnw3di552clpecmymkvb3be2iy5nt3s2k6gxtoka.arweave.net/P7J9Thbj63Y22xo73QlvIJmGKqHYSaRjrZ7lpXjXm5Q",
+        "type": "image/png"
+      }
+    ],
+    "category": "video",
+    "creators": [
+      {
+        "address": "gZpxTY7YWFaiyttr9zcTwxdk67VA6DoMgBxo2nC7xmM",
+        "share": 90
+      },
+      {
+        "address": "HPoRuiN5va9N8FU9VmRLR64oekbDr2z44oX7cpZ6BHZM",
+        "share": 10
+      }
+    ]
+  }
+}
